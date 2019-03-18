@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-After this below [React Redux tutorial](https://www.valentinog.com/blog/redux/) was followed to make further code changes.
+And [React Redux tutorial](https://www.valentinog.com/blog/redux/) was followed to make further code changes.
 
 ## Available Scripts
 
